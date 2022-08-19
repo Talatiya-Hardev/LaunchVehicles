@@ -1,6 +1,7 @@
 # LaunchVehicles
 
-NOTE : Keep all 5 files in one Folder and then run from Spyder preferably and follow the instructions in the code documentation
+NOTE : Keep all 5 files in one Folder and then run from Spyder preferably
+Follow the instructions in the code documentation before running the code
 
 3 Projects on the Launch Vehicle Analysis
 
